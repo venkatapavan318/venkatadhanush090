@@ -1,9 +1,6 @@
 # 💫 About Me:
 
-I am vangara venkata dhanush . I born and raised in Chirala , 
-Thotavaripalem ,i did my schooling in Thotavaripalem SRI SAI 
-VIDHYANIKETHAN HIGH SCHOOL in 2019 . And intermediate in SRI GOWTHAMI JR COLLEGE CHIRALA complete in 
-2021 . After i did my graduation in 2025 . ST.ANN'S COLLEGE OF 
+I am vangara venkata dhanush . I did my graduation in 2025 . ST.ANN'S COLLEGE OF 
 ENGINEERING AND TECHNOLOGY in the stream of COMPUTER SCIENCE ENGINEERING .
 Now i have interested in software developer  but  i have to learn a some 
 developing Programming language skills they are python core and python advanced , java , c , javascript . Some web 
